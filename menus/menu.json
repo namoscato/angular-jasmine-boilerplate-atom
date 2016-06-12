@@ -1,0 +1,34 @@
+{
+    "context-menu": {
+        "atom-text-editor": [
+            {
+                "label": "Generate Jasmine Boilerplate",
+                "command": "angular-jasmine-boilerplate:generate"
+            }
+        ]
+    },
+    "menu": [
+        {
+            "label": "Packages",
+            "submenu": [
+                {
+                    "label": "AngularJS Jasmine Boilerplate",
+                    "submenu": [
+                        {
+                            "label": "Set Source Folder",
+                            "command": "angular-jasmine-boilerplate:set-source-folder"
+                        },
+                        {
+                            "label": "Set Test Folder",
+                            "command": "angular-jasmine-boilerplate:set-test-folder"
+                        },
+                        {
+                            "label": "Generate Jasmine Boilerplate",
+                            "command": "angular-jasmine-boilerplate:generate"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

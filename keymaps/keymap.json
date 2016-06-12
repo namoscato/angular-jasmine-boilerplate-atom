@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-g": "angular-jasmine-boilerplate:generate"
+  }
+}
