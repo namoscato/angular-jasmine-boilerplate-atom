@@ -12,7 +12,7 @@
     "unit",
     "test"
   ],
-  "repository": "https://github.com/atom/angular-jasmine-boilerplate-atom",
+  "repository": "https://github.com/namoscato/angular-jasmine-boilerplate-atom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
