@@ -8,7 +8,9 @@ Depends on [`angular-jasmine-boilerplate`](https://github.com/namoscato/angular-
 
 ## Installation
 
-Install `Angular​JS Jasmine Boilerplate` via [Package Control](https://packagecontrol.io/).
+Install `angular-jasmine-boilerplate-atom` via Settings > Install or `apm`:
+
+    apm install angular-jasmine-boilerplate-atom
 
 ## Usage
 
@@ -16,4 +18,4 @@ This package stores a reference to source and test paths on a per-project basis.
 
 For each project, open the [Command Palette](https://github.com/atom/command-palette), and click on "Angular Jasmine Boilerplate: Set Source Folder" and "Angular Jasmine Boilerplate: Set Test Folder" respectively.
 
-Then, right click on an open file and click "Generate Jasmine Boilerplate" or use the keyboard shortcut <kbd>ctrl-alt-g</kbd>.
+Then, right click on an open file and click "Generate Jasmine Boilerplate" or use the keyboard shortcut <kbd>CTRL</kbd><kbd>ALT</kbd><kbd>G</kbd>.
